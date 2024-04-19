@@ -3,6 +3,7 @@ Makefile
 config.h
 config.log
 config.status
-*.o
-*.a
-.vs*
+**/*.o
+**/*.a
+**/.vs*
+**/build/
